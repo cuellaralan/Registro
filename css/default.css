@@ -1,3 +1,7 @@
+
+
+
+
 */*Set's border, padding and margin to 0 for all values*/
 {
     padding: 0;
@@ -159,7 +163,7 @@ form.register input[type=radio]
 form.register label.gender{
     margin-top:-1px;
     margin-bottom:2px;
-    width:34px;
+    width:50px;
     float:left;
     text-align:left;
     line-height:19px;
